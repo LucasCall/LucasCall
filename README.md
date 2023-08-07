@@ -17,8 +17,15 @@ E essa algumas das tecnologias que venho me desenvolvendo cada vez mais!
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCall&exclude_repo=github-readme-stats,LucasCall.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCall&exclude_repo=github-readme-stats,LucasCall.github.io&theme=dark)
 
 Confira meu ultimo repositório!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasCall&repo=PokeDex)](https://github.com/LucasCall/PokeDex)
+<a href="https://github.com/LucasCall/PokeDex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasCall&repo=PokeDex&theme=dark">
+</a>
+
+
+
+
+
