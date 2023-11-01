@@ -19,11 +19,17 @@ E essa algumas das tecnologias que venho me desenvolvendo cada vez mais!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCall&exclude_repo=github-readme-stats,LucasCall.github.io&theme=dark)
 
-Confira meu ultimo repositório!
+Confira meus ultimos repositórios!
 
+<div>
 <a href="https://github.com/LucasCall/PokeDex">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasCall&repo=PokeDex&theme=dark">
 </a>
+
+<a hrf="https://github.com/LucasCall/Design-Responsivo">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasCall&repo=Design-Responsivo&theme=dark">
+</a>
+</div>
 
 
 
